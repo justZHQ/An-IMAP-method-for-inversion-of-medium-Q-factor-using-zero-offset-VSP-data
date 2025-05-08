@@ -1,0 +1,1 @@
+# An-IMAP-method-for-inversion-of-medium-Q-factor-using-zero-offset-VSP-data
