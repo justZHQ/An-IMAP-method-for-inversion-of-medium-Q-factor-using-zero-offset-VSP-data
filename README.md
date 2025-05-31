@@ -5,7 +5,7 @@ The latex citation format of the article is as follows:\
 @ARTICLE{9751761,\
   author={Zhao, Haoqi and Gao, Jinghuai},\
   journal={IEEE Geoscience and Remote Sensing Letters},\
-  title={An IMAP Method for Inversion of Medium Q Factor Using Zero-Offset VSP Data},\ 
+  title={An IMAP Method for Inversion of Medium Q Factor Using Zero-Offset VSP Data},\
   year={2022},\
   volume={19},\
   number={},\
